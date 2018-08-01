@@ -1,0 +1,29 @@
+{
+  "id": "8d8f4ae3-ac2d-48ae-8775-927dc1f1d3ae",
+  "name": "Extension4Book",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [
+    {
+      "appId": "e9afd709-51e6-4fc0-905e-8e48e439ca17",
+      "name": "BuecherVerwaltung",
+      "publisher": "DWE",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 50099
+  }
+}
